@@ -1,20 +1,8 @@
 # Virtual environment
-venv/
-env/
+.venv/
+
 
 # Byte-compiled / optimized Python files
-*.pyc
+
 __pycache__/
 
-# Editor/IDE specific files
-.vscode/
-.idea/
-*.sublime-project
-*.sublime-workspace
-
-# Other
-.DS_Store  # macOS specific file
-
-# Optional: Exclude any sensitive or environment-specific files (e.g., credentials)
-# config.ini
-# .env
